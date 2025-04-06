@@ -51,7 +51,7 @@ This technique allows persistent execution of malicious code at logon with SYSTE
 - Validate against known legitimate DLLs (e.g., ScCertProp, WgaLogon).
 - Investigate DLL paths outside of `%SystemRoot%\System32`.
 
-### Sigma Detection Rule : **Link:** [Sigma Rule – Boot or Logon Autostart Execution : Winlogon Helper DLL](https://github.com/N1ghtFury74/Sigma-Rules-/blob/Boot-or-Logon-Autostart-Execution/Srule.Yaml)
+### Sigma Detection Rule : **Link:** [Sigma Rule – Boot or Logon Autostart Execution : Winlogon Helper DLL](https://github.com/N1ghtFury74/Sigma-Rules-/blob/main/Boot%20or%20Logon%20Autostart%20Execution/Winlogon%20Helper%20DLL/Srule.Yaml)
 
 ## Hunting Playbook
 
